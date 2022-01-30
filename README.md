@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @MyLordHitsHard
-- 👀 I’m interested in Tech., Programming and Gaming
-- 🌱 I’m currently learning WebD, AppDev, CPP and Python
-- 💞️ I’m looking to collaborate on a project related to helping gamers to find better teammates.
-- 📫 Contact: dr.himanshudutt@gmail.com
-
-<!---
-MyLordHitsHard/MyLordHitsHard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+![c-](https://user-images.githubusercontent.com/37894863/151707569-3cc7f3ce-ccc6-473b-b2ee-dbc81c70c8f2.png)
