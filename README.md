@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyLordHitsHard
 - 👀 I’m interested in Tech., Programming and Gaming
-- 🌱 I’m currently learning WebD, CPP and Python
+- 🌱 I’m currently learning WebD, AppDev, CPP and Python
 - 💞️ I’m looking to collaborate on a project related to helping gamers to find better teammates.
 - 📫 Contact: dr.himanshudutt@gmail.com
 
