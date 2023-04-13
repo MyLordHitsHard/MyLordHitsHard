@@ -26,6 +26,9 @@
 ![ReactJS](https://img.shields.io/badge/React-292c33?style=flat-square&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
+
+
 
 <h2>Platforms</h2>
 
