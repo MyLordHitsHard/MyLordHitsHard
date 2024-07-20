@@ -1,15 +1,16 @@
 ### Hello! Everyone.
-### My name is [Himanshu Dutt](https://github.com/MyLordHitsHard) 👋🏼
+### My name is [Himanshu Dutt](https://feellord.netlify.app/) 👋🏼
 
 
 ### About me <br>
 
-- Computer Science Engineering
-- C++ Programmer
+- Computer Science Engineer
 - Spring Boot
-- React.JS
+- C++ Programmer
+- Game Dev. (soon)
 
-#### Since childhood I have been fascinated by technology. I love to keep myself updated with new tech. I love to code and develop full stack apps. My greatest strength is that I am always ready to change according to the given situation.
+#### Since childhood I have been fascinated by technology. I love to keep myself updated with new tech.
+#### I love to code and want to develop games someday. My greatest strength is always being ready to change according to the given situation.
 
 <br>
 <hr>
