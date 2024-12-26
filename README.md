@@ -53,6 +53,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLordHitsHard&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MyLordHitsHard&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6754307decc889bb0d17491f?variant=dark&roadmaps=game-developer)](https://roadmap.sh)
   
 </div>
 <hr>
