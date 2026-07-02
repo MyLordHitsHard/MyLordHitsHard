@@ -143,9 +143,8 @@ An STL-compatible generic dynamic array built to understand RAII and move semant
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MyLordHitsHard&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLordHitsHard&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=MyLordHitsHard&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MyLordHitsHard&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/stats-organization/github-stats-extended)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6754307decc889bb0d17491f?variant=dark)](https://roadmap.sh)
 
